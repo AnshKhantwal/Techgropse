@@ -376,6 +376,7 @@ textarea {
   justify-content: center;
 }
 
+/* mockup device */
 .device {
   width: 280px;
   height: 560px;
@@ -1251,7 +1252,7 @@ textarea {
   text-align: center;
 }
 
-/* why us */
+/* why us/why to choose us */
 .why-us {
   text-align: center;
 }
@@ -1362,7 +1363,7 @@ textarea {
   font-weight: 500;
 }
 
-/* process */
+/* our process */
 .process {
   text-align: center;
 }
@@ -1416,7 +1417,7 @@ textarea {
   line-height: 1.7;
 }
 
-/* testimonials */
+/* testimonials/reviews */
 .testimonials {
   background: var(--bg-surface);
   text-align: center;

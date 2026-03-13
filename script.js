@@ -42,7 +42,7 @@
     observer.observe(el);
   });
 
-  // stagger delay for grid children
+  // delay for grid children
   document.querySelectorAll(
     ".services-grid, .port-grid, .ind-grid, .process-grid, .test-grid, .about-counters, .why-badges"
   ).forEach(function (grid) {
